@@ -133,6 +133,3 @@ Future work could include expanding the dataset, exploring more advanced models,
     prediction = predict_sentiment(sample_review, tokenizer, MAX_LEN)
     print(prediction)
     ```
-
----
-
